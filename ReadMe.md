@@ -7,6 +7,8 @@
 - Choose of colours
 - CSS positons
 ***
+***[preview deployed project](https://modern-website-project4.netlify.app/)***
+***
 ### This project took me around **3 Hours** to complete
 ***
 
